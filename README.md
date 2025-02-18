@@ -76,3 +76,5 @@ npm start
 yarn start
 ```
 - จะเปิด URL: http://localhost:3000 สำหรับเรียกดูระบบจัดการตั๋วสนับสนุน
+
+[🎥 ดูวิดีโอสาธิต](https://drive.google.com/file/d/1ldukxlQfbktgXdAgbp8_XabBG2rvGppo/view?usp=sharing)
