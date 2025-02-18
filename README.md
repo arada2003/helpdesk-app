@@ -36,7 +36,7 @@ git clone https://github.com/arada2003/ticketapi
 cd ticketapi
 ```
 - จากนั้นไปที่ไฟล์ .env เพื่อทำการตั้งค่า environment ของเครื่อง เพื่อทำการเปลี่ยนหมายเลข IPv4 ให้เป็นของเครื่องที่ใช้งานอยู่
-  ```bash
+```bash
 # เปิด terminal or command prompt ใช้คำสั่งนี้หาหมายเลข IPv4
 ipconfig
 
