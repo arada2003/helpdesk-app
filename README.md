@@ -52,7 +52,7 @@ docker-compose up -d
 ```
 - จะเปิด URL: http://localhost:8080 สำหรับเรียกดูข้อมูลผ่านการทำ api
 
-#### 2. การติดตั้งและการใช้งานหน้าเว็บ Help desk ticket
+#### 3. การติดตั้งและการใช้งานหน้าเว็บ Help desk ticket
 - ทำการ get หน้าเว็บจาก [help desk ticket app](https://github.com/arada2003/helpdesk-ticket-app) ด้วยคำสั่ง git clone
 ```bash
 git clone https://github.com/arada2003/helpdesk-ticket-app
